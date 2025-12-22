@@ -1,7 +1,4 @@
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -27,6 +24,10 @@
 </p>        
 <!--- stats (end) -->
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciadiazz&layout=compact&theme=dark&bg_color=0A0A0A" alt="Lucia's Top Languages"/>
+<br />
+<br />
+<br />
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
