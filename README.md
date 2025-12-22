@@ -2,11 +2,11 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Lucia!;I'm+a+learning+developer...;)](https://git.io/typing-svg)
+    <summary><h1 style="display: inline-block">Hi, I'm Lucia
 </h1></summary>
   </ul>
 </div>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Lucia!;I'm+a+learning+developer...;)](https://git.io/typing-svg)
 <!--Intro start-->
 - 🔭 I’m currently studying Telecommunications Engineering at the University of Seville
 
