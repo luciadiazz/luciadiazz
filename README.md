@@ -6,6 +6,7 @@
   </ul>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AvidCoder!;I'm+a+learning+developer...;)](https://git.io/typing-svg)
 
 <!--Intro start-->
 - 🔭 I’m currently studying Telecommunications Engineering at the University of Seville
