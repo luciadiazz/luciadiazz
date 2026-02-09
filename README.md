@@ -10,11 +10,9 @@
 <!--Intro start-->
 - 🔭 I’m currently studying Telecommunications Engineering at the University of Seville
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
-
 - ☁️ I’m passionate about technology and programming
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Ask me about **HTML, CSS, C, Java, Python**
 
 - 📫 Feel free to reach me out 
 
