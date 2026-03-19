@@ -37,7 +37,7 @@
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://es.linkedin.com/in/luc%C3%ADa-d%C3%ADaz-pastor-846456378" target="_blank">
+  <a href="https://es.linkedin.com/in/lucia-diaz-pastor-teleco" target="_blank">
     <img src="https://img.icons8.com/color/96/linkedin.png" height="50" width="50" />
   </a>
 </p>
