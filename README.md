@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">Hi, I'm Lucía 👋</h1>
-<h3 align="center">Telecommunications Engineering Student · Building things end to end</h3>
+<h3 align="center">Telecommunications Engineering Student</h3>
 
 <p align="center">
   <a href="https://portfolio-luciadiaz.vercel.app/" target="_blank">
@@ -13,16 +13,16 @@
 ### 👩‍💻 About Me
 
 - 🎓 Studying **Telecommunications Engineering** at the University of Seville
-- 🛠️ Comfortable across the stack: **C, Java, Python, JavaScript, HTML/CSS**, plus VHDL and networking (SNMP/RADIUS)
-- 🌱 Currently exploring IoT, embedded systems and backend development
-- 💬 Ask me about: **web dev, digital electronics, or Alexa Skills**
+- 🛠️ Comfortable across the stack: **C, Java, Python, JavaScript, HTML/CSS**, plus networking (SNMP/RADIUS)
+- 💡 Passionate about **cibersecurity, AI, programming, and continuous learning** 
+- 🌱 Currently exploring IoT and backend development
 - 📫 Reach me on [LinkedIn](https://es.linkedin.com/in/lucia-diaz-pastor-teleco) or through my [portfolio](https://portfolio-luciadiaz.vercel.app/)
 
 ---
 
 ### 📌 Featured Projects
 
-- 🌐 **[Portfolio](https://github.com/luciadiazz/Portfolio)** — my personal site, built from scratch (HTML/CSS/JS)
+- 🌐 **[Portfolio](https://github.com/luciadiazz/Portfolio)** — my personal site, built from scratch
 - 🎲 **[Etsibingo](https://github.com/luciadiazz/Etsibingo)** — the unofficial ETSI bingo, written in C
 
 ---
@@ -43,8 +43,5 @@
   </a>
   <a href="https://es.linkedin.com/in/lucia-diaz-pastor-teleco" target="_blank">
     <img src="https://img.icons8.com/color/96/linkedin.png" height="50" width="50" />
-  </a>
-  <a href="mailto:ldiapas05@gmail.com">
-    <img src="https://img.icons8.com/color/96/gmail-new.png" height="50" width="50" />
   </a>
 </p>
